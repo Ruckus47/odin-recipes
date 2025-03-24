@@ -1,0 +1,16 @@
+h1 {
+    color: black;
+    background-color:red;
+    font-weight: bold;
+  }
+
+
+a {
+    color: orange;
+  }
+
+.meal {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+  }

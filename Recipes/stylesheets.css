@@ -1,0 +1,16 @@
+#topic {
+    color: white;
+    background-color: red;
+    font-size: 44px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+#branch {
+    font-style: italic;
+    font-size: 24px;
+  }
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+  }
